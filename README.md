@@ -13,7 +13,7 @@ Gloms onto the following URL schemes:
 
 ## Installation
 
-- Download and unzip [Subl.app.zip](https://github.com/dhoulb/subl/releases/download/v1.2/Subl.app.zip)
+- Download and unzip [Subl.app.zip](https://github.com/dhoulb/subl/releases/download/v1.4/Subl.app.zip)
 - Move Subl.app to your **/Applications** directory
 - Open once to register the handler
 
